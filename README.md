@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Catharinaleth
 - ❣️ Based in Denmark
 - 👩🏽‍💻 Studying Informatics and Computer Sience at Roskilde University 
-- 👀 I'm very new to programmering 
+- 👀 I'm new to programming 
 
 <!---
 Catharinaleth/Catharinaleth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
