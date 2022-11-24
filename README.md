@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Catharinaleth
+- 👋 Hi, I’m @CodeCat
 - ❣️ Based in Denmark
 - 👩🏽‍💻 Studying Informatics and Computer Sience at Roskilde University 
 - 👀 I'm new to programming 
